@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.templet-bg {
+    background-color: #ff8080;
+}
+
+.vertical-line {
+    border-right: 1px solid black;
+    height: 170px;
+    width: 2px;
+}
+
+.vertical-line1 {
+    border-right: 1px solid black;
+    height: 200px;
+    width: 2px;
+}
+
+.year {
+    padding-left: 20px;
+}
+
+.text {
+
+    padding-left: 80px;
+}
+
+.circle {
+    width: 14px;
+    height: 14px;
+    border-radius: 50px;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 6px;
+}
+
+.mrgn-l {
+    margin-left: 140px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.line-1 {
+    width: 780px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+.margin-1 {
+    margin-top: 22px;
+}
+
+.margin-2 {
+    margin-top: 20px;
+}
+
+
+.empty-circle {
+    width: 100px;
+    height: 100px;
+    background: #ff8080;
+    border: 3px solid #000;
+    border-radius: 200px;
+    padding-bottom: 14px;
+    padding-top: 11px;
+    padding-right: 18px;
+    padding-left: 14px;
+
+}
+
+.dot-circle {
+    width: 100px;
+    height: 100px;
+    background: black;
+    border: 3px solid #000;
+    border-radius: 200px;
+    padding: 20px;
+
+}
+
+.color-w {
+    color: #ffffff;
+}
+
+
+carolineassign.ccbp.tech
